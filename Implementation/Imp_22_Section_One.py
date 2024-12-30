@@ -1,7 +1,15 @@
+#
+# Copyright (C) Valeriya Koshevaya
+#
+# SPDX-License-Identifier: MIT
+#
+
+
+
 import os
 import json
 
-from TOOL_IMPLEMENTATION.client_set_and_file_prep import create_client, read_document, preprocess_text
+from Imp_0_File_prep import create_client, read_document, preprocess_text
 client = create_client()
 
 
