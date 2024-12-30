@@ -17,8 +17,8 @@ client = create_client()
 ################                         Read, split and preprocess the NDAs
 ############################################################################################################
 
-#Change from test to final directory: "/Users/koshevv1/Python/NDAs"
-directory = "Dataset"    #Set path to the directory with contracts
+##Directory with NDA files
+directory = "Dataset"    #Set path to the directory that contains contracts
 
 file_paths = [os.path.join(directory, file) for file in os.listdir(directory) if file.endswith('.txt')]
 
