@@ -1,14 +1,22 @@
+#
+# Copyright (C) Valeriya Koshevaya
+#
+# SPDX-License-Identifier: MIT
+#
+
+
+
 import os
 import json
 
-from TOOL_IMPLEMENTATION.client_set_and_file_prep import create_client, read_document, preprocess_text
+from Imp_0_File_prep import create_client, read_document, preprocess_text
 client = create_client()
 
 
-with open('T_GPT3.5/sections_and_clauses.json', 'r') as f:
+with open('T_GPT4/sections_and_clauses.json', 'r') as f:
     sections_and_clauses = json.load(f)
 
-with open('T_GPT3.5/file_paths.json', 'r') as f:
+with open('T_GPT4/file_paths.json', 'r') as f:
     file_paths = json.load(f)
 
 ##################################             MASTER LISTS    ##################################################
@@ -508,7 +516,7 @@ for key, value in clauses_count_all_at_once_2.items():
 
 
 
-folder_path = 'T_GPT3.5'
+folder_path = 'T_GPT4'
 os.makedirs(folder_path, exist_ok=True)
 
 with open(os.path.join(folder_path, 'dict_of_sections2.json'), 'w') as f:
