@@ -32,14 +32,14 @@ def create_client():
             request.url = request.url.copy_with(path=path)
 
     client = OpenAI(
-        base_url="https://aalto-openai-apigw.azure-api.net",
-        api_key=False, # API key not used, and rather set below
+        base_url="<your_base_url>",
+        api_key=False, # Replace with your actual API key handling method
         default_headers = {
-            "Ocp-Apim-Subscription-Key": os.environ.get("AZURE_KEY"),
+            "Ocp-Apim-Subscription-Key": "<your_subscription_key>",
         },
         http_client=httpx.Client(
             event_hooks={
-                "request": [update_base_url],
+                "request": [update_base_url], # Customize as needed
                 }
             ),
         )
