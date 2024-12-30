@@ -1,4 +1,12 @@
-# Source:
+#
+# Copyright (C) Valeriya Koshevaya
+#
+# SPDX-License-Identifier: MIT
+#
+
+
+
+# Source for client code:
 # https://version.aalto.fi/gitlab/cloud-and-apps/large-language-models/-/tree/master?ref_type=heads
 
 
@@ -14,9 +22,7 @@ from openai import OpenAI
 load_dotenv()
 
 # For all endpoints see https://www.aalto.fi/en/services/azure-openai#6-available-api-s
-#path = "/v1/chat/gpt4-8k" # GPT-4 (vanilla)
-path = "/v1/openai/gpt4-turbo/chat/completions" # GPT-4-Turbo
-#path = "/v1/chat/gpt-35-turbo-1106" # GPT-3.5
+path = "" # Add endpoint here (e.g., GPT-4-Turbo)
 
 
 
