@@ -1,7 +1,16 @@
+#
+# Copyright (C) Valeriya Koshevaya
+#
+# SPDX-License-Identifier: MIT
+#
+
+
+
+
 import os
 import json
 
-from TOOL_IMPLEMENTATION.client_set_and_file_prep import create_client, read_document, split_into_sections, preprocess_text
+from 0_File_prep import create_client, read_document, split_into_sections, preprocess_text
 client = create_client()
 
 
@@ -9,7 +18,7 @@ client = create_client()
 ############################################################################################################
 
 #Change from test to final directory: "/Users/koshevv1/Python/NDAs"
-directory = "/Users/koshevv1/Python/NDAs"
+directory = "Dataset"    #Set path to the directory with contracts
 
 file_paths = [os.path.join(directory, file) for file in os.listdir(directory) if file.endswith('.txt')]
 
@@ -263,7 +272,7 @@ for file_name, inner_dict in sections_and_clauses.items():
 
 #### Importing dictionaries for further tasks
 
-folder_path = 'T_GPT3.5'
+folder_path = 'T_GPT4'
 os.makedirs(folder_path, exist_ok=True)
 
 
