@@ -1,0 +1,187 @@
+Non-Disclosure Agreement
+
+1. Definitions.  “Confidential  Information”   means  any  of  Discloser’s information,
+encompasses non-public data that offers an economic benefit, such as proprietary data, intellectual property, 
+economic, technological, strategic data, unpatented IP, trade secrets, software codes, systems, methodologies, 
+marketing strategies, financial data, customer insights, and product plans.  All  Confidential  Information  disclosed  
+in  tangible form  must  be  marked  as  “confidential”  or  “proprietary”  or  with  words  of  similar  import,  and  all
+Confidential Information disclosed orally must be identified as confidential at the time  of  disclosure  and
+summarized in writing within thirty (30) days of disclosure.  “Affiliate”,  with respect to any Person, means
+any other Person that, directly or indirectly, is controlled by, controls or is under common control with that
+Person,  including,  without  limitation,  any  officer,  director,  manager,  general  partner,  controlling
+stockholder or managing member of any Person.  “Control”,  with respect to any Person, means the power,
+directly  or  indirectly,  to  direct  the  management  and  policies  of  that  Person.  “Person”  shall  be  broadly
+interpreted  to  include,  without  limitation,  any  individual,  corporation,  company,  association,  partnership,
+joint venture, trust, estate, governmental agency or other entity of whatsoever kind or nature.
+
+2. Exceptions.  Confidential Information does not include information which: (i)  is  in  the  possession  of  the
+Recipient at the time of disclosure as shown by the Recipient’s files and records immediately prior to the
+time  of  disclosure;  (ii)  prior  or  after  the  time  of  disclosure  becomes  part  of  the  public  knowledge  or
+literature, not as a result of any inaction or action of the Recipient; (iii) is lawfully obtained from a third
+party without any breach of a confidentiality obligation to the Discloser; (iv) is approved for release by the
+Discloser in writing; or (v) is shown by written record to be developed independently by the Recipient.
+
+3. Non-use  and  Nondisclosure.   The  Recipient  agrees  not  to  use  the  Confidential  Information  for  any
+purpose  except  to  conduct  the  Strategic  Discussions.  Recipient  will  not  disclose  any  Confidential
+Information to any third parties except those directors, officers, employees, consultants and agents who
+have a need to know the Confidential Information in order to carry out the Strategic Discussions. Recipient
+shall ensure that all such persons are bound by non-disclosure terms in content substantially similar to this
+NDA. Recipient will be responsible for breaches of this NDA by any such person. Recipient agrees that it
+will  take  all  reasonable  measures  to  protect  the  secrecy  of  and  avoid  disclosure  or  use  of  Confidential
+Information, which measures shall include the highest degree of care the Recipient utilizes to protect its
+own Confidential Information of a similar nature, but in no event less than a reasonable degree of care.
+Recipient  agrees  to  notify  Discloser  in  writing  of  any  misuse  or  misappropriation  of  such  Confidential
+Information which may come to its attention.
+
+4. Legal Disclosure. In the event that Recipient or its Representatives are requested pursuant to, or required by,
+applicable law, regulation or legal process to disclose any of the Confidential Information, Recipient will
+promptly notify Discloser, in writing, so that Discloser may seek a protective order or other appropriate
+remedy. Recipient will cooperate in Discloser’s efforts to obtain a protective order or other reasonable assurance that confidential
+treatment will be given to the Confidential Information and the existence of the Transaction or discussions
+between the Parties relating to the Transaction. In the event that no such protective order or other remedy
+is obtained, or that Discloser does not waive compliance with the terms of this Agreement, Recipient will
+furnish only that portion of the Confidential Information which Recipient has a duty as a matter of law to
+disclose.
+
+5. Return or Destruction of Confidential Information. Upon the expiration or termination
+of this Agreement, or at the Disclosing Party's request at any time during the term of
+this Agreement, the Recipient and its Representatives shall promptly return to the
+Disclosing Party all copies, whether in written, electronic or other form or media, of
+the Disclosing Party's Confidential Information, or destroy all such copies and
+confirm the same in writing to the Disclosing Party; provided, that the Recipient and
+its Representatives may retain such Confidential Information as is necessary to
+enable it to comply with its reasonable document retention policies. 
+Notwithstanding return, the recipient is still bound by confidentiality of information for two years after the return of information.
+
+6. No  License  Granted.   Nothing  in  this  NDA  is  intended  to  grant  Recipient  any  rights  under  any  patent,
+copyright, trade secret or other intellectual property right, nor shall this NDA grant Recipient any rights in
+or to Discloser’s Confidential Information except the limited right to review such Confidential Information
+solely for the purposes set forth in Section 1. All such rights shall remain exclusively owned by Discloser.
+Recipient shall not derive or attempt to derive source code, reverse engineer, disassemble or decompile
+any products, models, prototypes, software or other objects that embody the Confidential Information of
+the Discloser.
+
+7. No  Representations.   Recipient  hereby  acknowledges  that  the  Discloser  makes  no  representation  or
+warranty, express or implied, as to the accuracy or completeness of the Confidential Information  or  any
+component thereof, and that any information being provided by the Discloser pursuant to this NDA is being
+provided “as is”. The parties agree that any Strategic Discussions contemplated by this NDA may or may
+not lead to business or other relationships between them and no party has any obligation to disclose any
+Confidential Information or conclude any such relationships or enter into any further agreements.
+
+8. Term and Termination. The term of this Agreement shall commence on the Effective
+Date and shall expire 18 months from the Effective Date, provided that either Party
+may terminate this Agreement at any time by providing written notice to the other
+Party. Notwithstanding anything to the contrary herein, each Party's rights and
+obligations under this Agreement, irrespective of termination of this Agreement,
+shall survive until the 18 month anniversary of this Agreement, provided that for any and all trade secrets of the Disclosing Party, the
+Confidential Period shall last for as long as such Confidential Information qualifies
+as a trade secret under applicable federal, state and/or local law.
+
+9. Publicity.  Recipient agrees that neither Recipient nor its Affiliates or representatives shall disclose to any
+Person who is not authorized to receive the Confidential Information either the fact that this NDA exists,
+that  discussions  or  negotiations  are  taking  place  concerning  Strategic  Discussions  or  any  of  the  terms,
+conditions  or  other  facts  with  respect  to  any  aspect  of  the  Strategic  Discussions,  including  the  status
+thereof or the Persons involved.
+
+10. Binding Agreement and Assignment. This Agreement shall be binding upon Recipient, its Representatives, its personal
+representatives, successors and assigns, and shall run to the benefit of Discloser and its affiliates,
+successors and assigns. 
+
+11. Assignment. This Agreement is not assignable by Recipient, and any attempted assignment
+by Recipient shall constitute a material breach by such party.
+
+12. Waiver. Recipient agrees that no failure or delay by Discloser in exercising any right, power or privilege
+hereunder will operate as a waiver thereof, nor will any single or partial exercise thereof preclude any
+other or further exercise thereof of the exercise of any right power or privilege hereunder. No waiver by either Party of any right or remedy hereunder shall be valid unless set forth in writing and signed by the Party giving such waiver.  
+
+
+13. Severability. If any portion of this Agreement is held to be invalid or unenforceable for any reason, it is agreed
+that said invalidity or unenforceability shall not affect the other portions of this Agreement and that the
+remaining covenants, terms and conditions or valid portions thereof shall remain in full force and effect
+and any court of competent jurisdiction may so modify the objectionable provision as to make it valid,
+reasonable and enforceable.
+
+14. Entire Agreement. This Agreement constitutes the entire agreement between the parties hereto with respect to the
+subject matter of this Agreement and supersedes and is in full substitution of any and all prior agreements
+and understandings whether written or oral between the parties relating to the subject matter of this
+Agreement. 
+
+15. Amendments. No modification, amendments or waiver of the terms and conditions hereof shall be binding
+upon Discloser, unless approved in writing by Discloser.
+
+16. Execution. This Agreement may be executed in counterparts, each of which shall constitute an original, but
+all of which shall constitute one agreement. This Agreement may be executed by facsimile and PDF copy
+signature or other electronic means, which shall be accepted as if they were original execution
+signatures.
+
+17. Export laws.  Each party agrees to comply with all export laws and regulations of the United States of America
+applicable to any information disclosed hereunder.
+
+18. Document structure. The headings of the Sections of this Agreement are inserted for
+convenience only and do not constitute a part hereof or affect in any way the meaning or interpretation of this Agreement. 
+
+19. Governing  Law  and  Jurisdiction.   This  NDA  shall  be  governed  by  and  construed  and  enforced  in
+accordance with the internal law of the State of California, without regard to any choice-of-law provisions,
+and  shall  be  binding  upon  the  parties  hereto  in  the  United  States  and  worldwide.  The  federal  and  state
+courts located in the State of California shall have exclusive jurisdiction to adjudicate any dispute arising
+out of this NDA.
+
+20. Remedies.  The receiving Party agrees that in the event of any breach or threatened 
+breach of this Agreement by the receiving Party or its officers, employees, consultants, or 
+agents, the disclosing Party shall be entitled to compensation for actual damages for any loss 
+incurred by reason of such breach or threatened breach, including all reasonable attorneys’ 
+fees and costs.  The receiving Party further agrees that any such breach or threatened breach 
+of this Agreement may result in irreparable injury to the disclosing Party, for which monetary 
+damages may be an inadequate remedy, and agrees that the disclosing Party shall be entitled 
+to temporary and permanent injunctive relief as necessary to restrain such breach or 
+threatened breach and to otherwise specifically enforce the provisions of this Agreement. If either Party causes a disclosure of the other Party’s Confidential Information in breach of the terms of this
+Agreement, the disclosing Party shall immediately report in writing the disclosure to the other Party and shall save, defend,
+indemnify and hold the non-disclosing Party harmless from and against any and all liability and damages suffered by the nondisclosing Party arising therefrom. In addition to the foregoing and without limitation thereof, the disclosing Party shall
+cooperate in prosecuting any claims against third parties for unauthorized use of any Confidential Information. 
+
+
+21.   Material Inside Information.  Each Party acknowledges that it is aware that U.S. and 
+Japanese securities laws restrict persons with material non-public information about a 
+company obtained directly or indirectly from that company under obligations of 
+confidentiality from purchasing or selling securities of such company, or from 
+communicating such information to any other person.  Each Party hereby agrees and 
+undertakes to comply with any such provisions and to use its reasonable efforts to cause its 
+Representatives to comply with such provisions, in each case to the extent and where 
+applicable. 
+
+22.   Dispute Resolution.  The Parties shall use all reasonable efforts to resolve any 
+disputes, controversies or differences arising out of or in connection with this Agreement 
+amicably, including the use of a mutually agreeable, non-binding mediation procedure.  Any 
+dispute which cannot be settled by mutual agreement or mediation shall be finally and 
+exclusively settled by arbitration held in Chicago, IL and conducted by the American 
+Arbitration Association (“AAA”) in accordance with the International Arbitration rules of 
+the AAA, as modified or amended by the following provisions.  Arbitration shall be by three 
+(3) arbitrators, one chosen by each of the Parties.  
+
+23. Nonsolicitation. The Receiving Party agrees that for a period of one year neither it nor its Affiliates who receive confidential
+information shall directly or indirectly initiate the solicitation of, without the consent of the Disclosing Party, (a) any executive
+officer of the Disclosing Party or of any of its Affiliates or (b) any employee of the Disclosing Party or any of its Affiliates
+actively engaged in the review of the Transaction for employment, advisory or consulting work; provided, however, neither party
+shall be prohibited from (x) employing or otherwise working with any such person who contacts such party solely on his or her own initiative and without direct or indirect solicitation by such party, (y) conducting general
+solicitations for employees or general contractors (which solicitations are not specifically targeted at the other party’s employees)
+through the use of media advertisements, professional search firms or otherwise, or (z) employing employees who are paid on an
+hourly basis.
+
+24. Non-Circumvent. In consideration of Discloser’s disclosure of the Confidential Information, and without limiting
+anything else set forth herein, neither Recipient nor any of its Representatives shall at any time prior to the
+date immediately preceding the second (2nd) anniversary date of this Agreement, without the prior written
+consent of Discloser, which consent may be withheld by Discloser in its sole discretion, take any action,
+directly or indirectly, to undertake the Transaction including, without limitation, attempting in any manner,
+directly or indirectly, to contact a potential seller or any of its shareholders, officers, directors, or affiliates,
+introduced or revealed to Recipient by Discloser, to undertake or complete the Transaction. Notwithstanding any to the contrary
+herein, the Receiving Party and its Representatives shall not be restricted from
+having a business relationship with the Disclosing Party’s clients, customers or
+licenses with which it has a pre-existing, continuing relationship at the time of
+entering into thus Agreement. In any event, Receiving Party shall not use any
+Confidential Information in any way to the detriment t of the Disclosing Party.
+
+25. Notice. All notices required or permitted hereunder shall be in writing.
+Any notice or communication required or permitted to be given by any provision of this
+Agreement shall be deemed to have been effectively given and received on the date personally delivered
+to the party to whom it is directed. Either party may change its notice address by
+delivering a written change of address to the other party in the manner set forth in this paragraph.
