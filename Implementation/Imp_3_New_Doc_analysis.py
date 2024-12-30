@@ -19,6 +19,7 @@ with open('complete_master', 'r') as f:
 ##################################        New Document Analysis   ##################################################
 ####################################################################################################################
 
+# Here, change the name of a document to be analysed for any of the three test sets with missing clauses
 new_document = preprocess_text(read_document("T_New_Doc/Missing_set_3.txt")) # Read and preprocess a document
 
 
@@ -147,8 +148,11 @@ for key, value in missing_clauses.items():
 
 #################           Sections and clauses that should not be there
 
+
 sections_of_new_document = []
-sections_of_new_document.append([preprocess_text(section) for section in split_into_sections(read_document("/Users/koshevv1/Python/T_New_Doc/Extra_set_3.txt"))])
+
+# Here, change the name of a document to be analysed for any of the three test sets with atypical clauses
+sections_of_new_document.append([preprocess_text(section) for section in split_into_sections(read_document("T_New_Doc/Extra_set_3.txt"))])
 sections_of_new_document = [item for sublist in sections_of_new_document for item in sublist]
 
 len(sections_of_new_document)
