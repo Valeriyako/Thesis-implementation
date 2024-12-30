@@ -1,0 +1,161 @@
+Exhibit (e)(3)
+NONDISCLOSURE AGREEMENT
+This Nondisclosure Agreement (this “Agreement”) is dated November 2, 2010, by and between Rovi
+Corporation, a Delaware corporation (“Rovi”) and Sonic Solutions, a California corporation (“Sonic”). For
+purposes hereof, the party disclosing Conﬁdential Information (as deﬁned in Section 1) may be referred to as
+“Discloser” and the party receiving Conﬁdential Information may be referred to as “Recipient.” The term
+“Person” will be broadly interpreted to include any individual and any corporation, partnership, entity, group,
+tribunal or governmental authority, and a party’s “Representatives” will be deemed to include each Person that
+is or becomes an oﬃcer, director, employee, partner, attorney, advisor, accountant, agent or representative of
+such party or of any of such party’s subsidiaries or other aﬃliates. The parties hereby agree as follows:
+
+1. Conﬁdential Information. “Conﬁdential Information” includes: (a) any information (including, without
+limitation, any technology, know-how, studies, patent applications, test results, business plans, budgets,
+forecasts and projections) relating directly or indirectly to the business of Discloser, whether prepared by
+Discloser or by any other Person and whether or not in written form, that is made available after the date
+hereof to Recipient or any of its Representatives for the purpose of considering a Transaction; (b) any
+memorandum, analysis, compilation, summary, interpretation, study, report or other document or material
+that is or has been prepared by or for Recipient and that contains, reﬂects, interprets or is based directly or
+indirectly upon any information of the type referred to in clause (a) of this sentence; (c) the existence and
+terms of this Agreement; and (d) the fact that discussions or negotiations are or may be taking place with
+respect to a possible Transaction (as deﬁned in Section 2); and (e) the proposed terms of any such Transaction.
+If disclosed in written, recorded, graphical or other tangible form, Conﬁdential Information shall be marked
+“Proprietary”, “Conﬁdential” or similar designation. If disclosed in oral form, Conﬁdential Information shall be
+identiﬁed by the Discloser as “Proprietary”, “Conﬁdential” or similar designation at the time of oral disclosure,
+with subsequent conﬁrmation in writing within thirty (30) days of such disclosure. Notwithstanding the
+preceding two sentences, Conﬁdential Information shall include information which should be reasonably
+construed by the Recipient to be conﬁdential. Notwithstanding the foregoing “Conﬁdential Information” will not
+include any information that (i) is or becomes generally available to the public other than as a direct or indirect
+result of the disclosure of any of such information by Recipient or any of its Representatives, (ii) was in
+Recipient’s possession prior to the time it was ﬁrst made available to Recipient or any of its Representatives by
+or on behalf of Discloser, provided that such information was not acquired improperly by the Recipient in
+breach of any contractual or other obligation of conﬁdentiality to Discloser or any other Person with respect to
+any of such information, (iii) becomes available to Recipient on a non-conﬁdential basis from a source other
+than Discloser or any of its Representatives, provided that such information was not acquired improperly by
+the Recipient in breach of any contractual or other obligation of conﬁdentiality to Discloser or any other Person
+with respect to any of such information, or (iv) was independently developed by Recipient.
+
+2. Limitations. Subject to Section 3, neither Recipient nor any of its Representatives will directly or indirectly:
+(a) make use of any Conﬁdential Information, except for the speciﬁc purpose of considering, evaluating and
+negotiating a possible negotiated transaction between the Sonic and Rovi (a “Transaction”); or (b) disclose any
+Conﬁdential Information to any other Person. Recipient will be liable and responsible for any breach of this
+Agreement by its Representatives and will, at its own expense, take actions necessary to restrain its
+Representatives from making any unauthorized use or disclosure of any Conﬁdential Information.
+
+3. Permitted Disclosures. Notwithstanding the limitations set forth in Section 2, Recipient may disclose
+Conﬁdential Information to its Representatives, but only to the extent a Representative needs to know such
+Conﬁdential Information for the purpose of helping Recipient in connection with a possible Transaction, and has
+agreed to be bound by the provisions hereof. If Discloser notiﬁes Recipient in writing prior to the disclosure of
+certain Conﬁdential Information that such Conﬁdential Information may be disclosed only to speciﬁed
+Representatives of Recipient, then Recipient shall not disclose such Conﬁdential Information to any of its other
+Representatives. If Recipient or any of its Representatives is required by law or governmental regulation or by
+subpoena or other valid legal process to disclose any Conﬁdential Information to any Person, then Recipient
+will immediately provide Discloser with written notice of the applicable law, regulation or process so that
+Discloser may seek a protective order or other appropriate remedy. Recipient and its Representatives will
+cooperate fully with Discloser in any attempt by Discloser to obtain any such protective order or other remedy.
+If Discloser elects not to seek, or is unsuccessful in obtaining, any such protective order or other remedy, then
+Recipient may disclose such Conﬁdential Information to the extent, but only to the extent, legally required;
+provided that Recipient and its Representatives will use their reasonable eﬀorts to ensure that such
+Conﬁdential Information is treated conﬁdentially by each Person to whom it is disclosed.
+
+4. No Representations or Licenses. Neither party nor any of its Representatives will be under any
+obligation to make any particular Conﬁdential Information available to Recipient or any of Recipient’s
+Representatives or to supplement or update any Conﬁdential Information previously furnished. Neither party
+nor any of its Representatives has made or is making any representation or warranty, express or implied, as to
+the accuracy or completeness of any Conﬁdential Information, and neither party nor any of its Representatives
+will have any liability to Recipient or to any of Recipient’s Representatives relating to or resulting from the use
+of any Conﬁdential Information or any inaccuracies or errors therein or omissions therefrom. Only those
+representations and warranties, if any, that are included in any ﬁnal deﬁnitive written agreement (a “Deﬁnitive
+Agreement”) that provides for the consummation of the Transaction will have legal eﬀect. Unless the parties
+enter into a Deﬁnitive Agreement, no agreement providing for a Transaction will be deemed to exist between
+the parties, and neither party will be under any obligation to negotiate or enter into any such Transaction.
+By making Conﬁdential Information or other information available hereunder, Discloser does not grant any
+license or other right under or with respect to any patent, trade secret, copyright, trademark or other
+proprietary or intellectual property right.
+
+5. Term and Termination. This Agreement will continue for a period of one (1) year from the date hereof
+unless earlier terminated. Either party may terminate this Agreement, with or without cause, upon ten
+(10) days’ prior written notice to the other. The conﬁdentiality and other obligations regarding Conﬁdential
+Information disclosed prior to such termination will survive for a period of three years after such disclosure.
+Upon termination or at the request of Discloser at any time, Recipient and its Representatives will promptly
+deliver to Discloser any Conﬁdential Information obtained or possessed by Recipient or any of its
+Representatives; provided, however, that, in lieu of delivering to Discloser any written materials containing
+Conﬁdential Information, Recipient may destroy such written materials and deliver to Discloser a certiﬁcate
+conﬁrming their destruction. Notwithstanding the delivery to Discloser (or the destruction by Recipient) of
+Conﬁdential Information pursuant to this Section 5, Recipient and its Representatives will continue to be bound
+by their conﬁdentiality obligations and other obligations under this Agreement.
+
+6. Remedies. Each party acknowledges that money damages would not be a suﬃcient remedy for any breach
+of this Agreement, and that the non-breaching party could suﬀer irreparable harm as a result of such breach. Accordingly, 
+the non-breaching party will also be entitled to equitable relief, including injunction and speciﬁc
+performance, as a remedy for any breach or threatened breach of this Agreement.
+
+7. Miscellaneous.
+(a) To the extent that any Conﬁdential Information includes materials or other information that may be
+subject to the attorney-client privilege, work product doctrine or any other applicable privilege or doctrine
+concerning any pending, threatened or prospective action, suit, investigation, arbitration or dispute, it is
+acknowledged and agreed that Recipient and Discloser have a commonality of interest with respect to such
+action, suit, investigation, arbitration or dispute and that it is their mutual intention and understanding that the
+sharing of such materials and other information is not intended to, and shall not waive or diminish the
+continued protection of any of such materials or other information under any applicable privilege or doctrine.
+Accordingly, all Conﬁdential Information that is entitled to protection under any applicable privilege or doctrine
+shall remain entitled to protection thereunder and shall be entitled to protection under the joint defense
+doctrine, and Recipient agrees to take measures necessary to preserve, to the fullest extent possible, the
+applicability of all such privileges or doctrines.
+(b) This Agreement and the transactions hereunder shall be governed by and construed and enforced in
+accordance with the laws of the State of California, excluding conﬂict of law rules and principles. In the event
+of any litigation between the parties, the prevailing party will be entitled to reasonable attorneys’ fees and all
+costs incurred in enforcing this Agreement.
+(c) This Agreement sets forth the entire understanding and agreement of the parties with respect to the
+subject matter hereof and supersedes all other oral or written representations and understandings. The failure
+to enforce any right will not be deemed a waiver of such or any other rights, including the right to enforce a
+subsequent breach of the same obligation. If for any reason a court of competent jurisdiction ﬁnds any
+provision of this Agreement, or portion thereof, to be unenforceable, that provision of the Agreement will be
+enforced to the maximum extent permissible so as to eﬀect the intent of the parties, and the remainder of this
+Agreement will continue in full force and eﬀect. This Agreement may be amended or modiﬁed only by a writing
+signed by the parties. This Agreement will be binding upon the successors and assigns of both parties.
+(d) This Agreement may be executed in one or more counterparts, each of which will be deemed an
+original, but which collectively will constitute one and the same instrument. For purposes hereof, a facsimile or
+electronic copy of this Agreement, including the signature page hereto, will be deemed to be an original.
+(e) Each party agrees to comply with all export laws and regulations of the United States of America
+applicable to any information disclosed hereunder.
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized
+representatives as of the date ﬁrst set forth above.
+Rovi Corporation
+
+Sonic Solutions
+
+By:
+
+By:
+
+/s/ Paul F. Norris
+
+Name: Pamela Sergeeﬀ
+
+Name:
+
+Paul F. Norris
+
+Title:
+
+Title:
+
+EVP, CFO and General Counsel
+
+/s/ Pamela Sergeeﬀ
+
+Authorized Signatory
+
+Date:
+
+November 2, 2010
+
+Notice Address:
+Nondisclosure Agreement
+
+Date:
+
+November 2, 2010
+
+Notice Address:

@@ -1,0 +1,151 @@
+
+ 
+NONDISCLOSURE AGREEMENT
+ 
+THIS NONDISCLOSURE AGREEMENT  (this  “NDA”)  is made as of December 9 th , 2014 (the   “Effective
+Date”)  by and between DigiPath, Inc., located at 6450 Cameron Street, Suite 113, Las Vegas, Nevada 89118
+(“Discloser”),  and W-Net, Inc.  (“Recipient”).
+ 
+1. Scope of NDA.  This NDA governs all disclosures of Confidential Information by Discloser in the course of
+exploring  one  or  more  strategic  business  transactions  or  relationships  with  Recipient  (“Strategic
+Discussions”).
+   
+2. Definitions.  “Confidential  Information”   means  any  of  Discloser’s  (or  its  Affiliates’)  information,
+including,  without  limitation,  science,  formulas,  patterns,  compilations,  programs,  software,  devices,
+designs,  drawings,  methods,  techniques  and  processes,  financial  information  and  data,  business  plans,
+business  strategies,  marketing  plans,  customer  lists,  price  lists,  cost  information,  information  about
+employees,  descriptions  of  inventions,  process  descriptions,  descriptions  of  technical  know-how,
+information  and  descriptions  of  new  products  and  new  product  development,  scientific  and  technical
+specifications and documentation, and pending or abandoned patent applications of a party, now known or
+in possession of, or hereafter learned or acquired, that derives economic value, actual or potential, from
+not being generally known to, and not being readily ascertainable by proper means by other persons who
+can  obtain  economic  value  from  its  disclosure  or  use.  All  Confidential  Information  disclosed  in  tangible
+form  must  be  marked  as  “confidential”  or  “proprietary”  or  with  words  of  similar  import,  and  all
+Confidential Information disclosed orally must be identified as confidential at the time  of  disclosure  and
+summarized in writing within thirty (30) days of disclosure.  “Affiliate”,  with respect to any Person, means
+any other Person that, directly or indirectly, is controlled by, controls or is under common control with that
+Person,  including,  without  limitation,  any  officer,  director,  manager,  general  partner,  controlling
+stockholder or managing member of any Person.  “Control”,  with respect to any Person, means the power,
+directly  or  indirectly,  to  direct  the  management  and  policies  of  that  Person.  “Person”  shall  be  broadly
+interpreted  to  include,  without  limitation,  any  individual,  corporation,  company,  association,  partnership,
+joint venture, trust, estate, governmental agency or other entity of whatsoever kind or nature.
+   
+3. Exceptions.  Confidential Information does not include information which: (i)  is  in  the  possession  of  the
+Recipient at the time of disclosure as shown by the Recipient’s files and records immediately prior to the
+time  of  disclosure;  (ii)  prior  or  after  the  time  of  disclosure  becomes  part  of  the  public  knowledge  or
+literature, not as a result of any inaction or action of the Recipient; (iii) is lawfully obtained from a third
+party without any breach of a confidentiality obligation to the Discloser; (iv) is approved for release by the
+Discloser in writing; or (v) is shown by written record to be developed independently by the Recipient.
+   
+4. Non-use  and  Nondisclosure.   The  Recipient  agrees  not  to  use  the  Confidential  Information  for  any
+purpose  except  to  conduct  the  Strategic  Discussions.  Recipient  will  not  disclose  any  Confidential
+Information to any third parties except those directors, officers, employees, consultants and agents who
+have a need to know the Confidential Information in order to carry out the Strategic Discussions. Recipient
+shall ensure that all such persons are bound by non-disclosure terms in content substantially similar to this
+NDA. Recipient will be responsible for breaches of this NDA by any such person. Recipient agrees that it
+will  take  all  reasonable  measures  to  protect  the  secrecy  of  and  avoid  disclosure  or  use  of  Confidential
+Information, which measures shall include the highest degree of care the Recipient utilizes to protect its
+own Confidential Information of a similar nature, but in no event less than a reasonable degree of care.
+Recipient  agrees  to  notify  Discloser  in  writing  of  any  misuse  or  misappropriation  of  such  Confidential
+Information which may come to its attention.
+   
+5. Mandatory  Disclosure.   In  the  event  that  Recipient  or  its  respective  directors,  officers,  employees,
+consultants  or  agents  are  requested  or  required  by  legal  process  to  disclose  any  of  Discloser’s
+Confidential Information, Recipient shall give prompt written notice (to the extent legally permissible) so
+that Discloser may seek a protective order or other appropriate relief. In the event that such protective
+order  is  not  obtained,  Recipient  shall  disclose  only  that  portion  of  the  Confidential  Information  that  its
+counsel advises that it is legally required to disclose.
+   
+6. Return of Materials.  Any materials or documents embodying Confidential Information which have been
+furnished  to  the  Recipient  will  be  promptly  returned,  accompanied  by  all  copies  of  such  documentation
+upon the earlier of the written request thereof by Discloser or the termination or expiration of this NDA.
+Notwithstanding  the  return  of  Confidential  Information,  Recipient  will  continue  to  be  bound  by  the
+obligations of confidentiality hereunder.
+   
+
+
+7. No  License  Granted.   Nothing  in  this  NDA  is  intended  to  grant  Recipient  any  rights  under  any  patent,
+copyright, trade secret or other intellectual property right, nor shall this NDA grant Recipient any rights in
+or to Discloser’s Confidential Information except the limited right to review such Confidential Information
+solely for the purposes set forth in Section 1. All such rights shall remain exclusively owned by Discloser.
+Recipient shall not derive or attempt to derive source code, reverse engineer, disassemble or decompile
+any products, models, prototypes, software or other objects that embody the Confidential Information of
+the Discloser.
+   
+8. No  Representations.   Recipient  hereby  acknowledges  that  the  Discloser  makes  no  representation  or
+warranty, express or implied, as to the accuracy or completeness of the Confidential Information  or  any
+component thereof, and that any information being provided by the Discloser pursuant to this NDA is being
+provided “as is”. The parties agree that any Strategic Discussions contemplated by this NDA may or may
+not lead to business or other relationships between them and no party has any obligation to disclose any
+Confidential Information or conclude any such relationships or enter into any further agreements.
+   
+9. Term.  This NDA shall continue in effect until the first anniversary of the Effective Date.
+   
+10. Publicity.  Recipient agrees that neither Recipient nor its Affiliates or representatives shall disclose to any
+Person who is not authorized to receive the Confidential Information either the fact that this NDA exists,
+that  discussions  or  negotiations  are  taking  place  concerning  Strategic  Discussions  or  any  of  the  terms,
+conditions  or  other  facts  with  respect  to  any  aspect  of  the  Strategic  Discussions,  including  the  status
+thereof or the Persons involved, except as required as a result of any legal process after compliance by
+Recipient with the provisions of Section 5.
+ 
+ 
+
+ 
+11. Miscellaneous.
+ 
+  a. This NDA  shall  be  binding  upon  and  for  the  benefit  of  the  undersigned  parties,  their  successors  and
+assigns, provided that this NDA or the Confidential Information of the Discloser may not be assigned by
+Recipient  without  the  prior  written  consent  of  the  Discloser.  Failure  to  enforce  any  provision  of  this
+NDA shall not constitute a waiver of any term hereof. A waiver given on any one occasion is effective
+only in that instance and will not be construed as a waiver of any right on any other occasion.
+     
+  b. If any provision of this NDA shall be held by a court of competent jurisdiction to be illegal, invalid or
+unenforceable, the remaining provisions shall remain in full force and effect.
+     
+  c. This  NDA  sets  forth  the  entire  agreement  between  the  parties  with  respect  to  the  subject  matter
+hereof  and  supersedes  all  prior  or  contemporaneous  agreements,  proposals,  understandings  and
+representations,  written  or  oral,  between  the  parties  with  respect  to  the  subject  matter  hereof.  All
+modifications of, waivers of and amendments to this NDA or any part hereof, must be in writing and
+signed on behalf of each party. This NDA may be executed in counterparts, including facsimile, PDF or
+other  electronic  copies  thereof,  and  each  such  counterpart  shall  be  an  original  and  altogether  shall
+constitute but one and the same document.
+ 
+12. Governing  Law  and  Jurisdiction.   This  NDA  shall  be  governed  by  and  construed  and  enforced  in
+accordance with the internal law of the State of California, without regard to any choice-of-law provisions,
+and  shall  be  binding  upon  the  parties  hereto  in  the  United  States  and  worldwide.  The  federal  and  state
+courts located in the State of California shall have exclusive jurisdiction to adjudicate any dispute arising
+out of this NDA.
+   
+13. Injunctive Relief.  Recipient agrees and acknowledges that any violation or  threatened  violation  of  this
+NDA  will  cause  irreparable  injury  to  Discloser  and  that,  in  addition  to  any  other  remedies  that  may  be
+available, in law, in equity or otherwise, Discloser shall be entitled to obtain injunctive relief against the
+threatened  breach  of  this  NDA  or  the  continuation  of  any  such  breach,  in  any  court  of  competent
+jurisdiction (notwithstanding the provisions of Section 12), without the necessity of proving actual damages
+or posting a bond.
+ 
+ACCEPTED AND AGREED:
+ 
+W-NET, INC.
+  DIGIPATH, INC.
+   
+     
+By: /s/ David Weiner
+  By: /s/ Todd Denkin
+ 
+(Signature)
+   
+(Signature)
+Name: David Weiner
+  Name: Todd Denkin
+Title: President
+  Title: CEO
+ 
+ 
+
+
+
+ 
+ 
+
+
+

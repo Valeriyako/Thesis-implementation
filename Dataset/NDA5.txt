@@ -1,0 +1,78 @@
+
+       This Nondisclosure Agreement (the "Agreement") is effective  as of the last date any authorized signatory affixes his/her signature below (the "Effective Date") between the Board of Regents of the Nevada System of Higher Education, on behalf of the University of Nevada, Las Vegas (together with its employees, representatives and agents, the "Recipient"), and ______________________________________________________, a ____________________________________, whose address is  ______________________________________________________________________ (the "Discloser").  In this Agreement, the Recipient and the Discloser each referred to individually as a "Party" and collectively as the "Parties."
+
+       
+1. Background.  The Parties anticipate that the Discloser will disclose to the Recipient certain of its Proprietary Information (as defined below) for the purpose of enabling the Recipient to evaluate and analyze a _________________________________________________________________________________________________________________________ (the "Purpose").  The Parties have entered into this Agreement to ensure the confidentiality of such Proprietary Information.  Any agreements or project plans that set forth specific arrangements for program implementation will be separately developed and agreed to in implementing agreements and executed by the Parties. Under no circumstances shall this Agreement be interpreted as establishing a joint venture or partnership  in the absence of a specific written agreement detailing the rights and responsibilities of the Parties. 
+
+2. Proprietary Information.  As used in this Agreement, the term "Proprietary Information" shall mean all confidential, proprietary or secret information, whether oral or written, disclosed by the Discloser, including, without limitation: (a) components, drawings, data, programs, specifications, techniques, technology,  processes, algorithms, inventions, mask works and other information or material relating to the Discloser's products, businesses, personnel, customers, finances or plans; and (b) information that is so designated by the Discloser in writing, whether by letter or use of a proprietary stamp or legend.  
+
+3. Confidentiality Obligations.  The Recipient may use the Proprietary Information only for the Purpose and shall protect the confidentiality of such Proprietary Information with at least the same degree of care as the Recipient uses to protect the confidentiality of its own proprietary information, but in no event less than reasonable care, provided that the Recipient may make any disclosure of such Proprietary Information: (i) to the extent the Discloser gives its prior written consent; (ii) to the extent required for the Recipient to comply with any law or valid court order, provided that the Recipient provides prior written notice of such required disclosure to the Discloser; and (iii) to the Recipient's employees, agents, and advisors ("Representatives") who need to know such information in connection with the Purpose.  
+
+4. Exceptions.  Section 3 notwithstanding, the Recipient shall have no confidentiality obligations with respect to any Proprietary Information to the extent that such Proprietary Information: (i) is or becomes generally known to the public without the Recipient or its Representatives violating this Agreement; (ii) is rightfully in the Recipient's possession at the time of disclosure without the Recipient having any confidentiality obligations to the Discloser with respect thereto; (iii) becomes known to the Recipient through disclosure by sources other than the Discloser without such sources violating any confidentiality obligations to the Discloser; or (iv) is independently developed by the Recipient without reference to or reliance upon the Discloser's Proprietary Information.  
+
+5. Acknowledgments.  The Recipient acknowledges and agrees that: (i) it shall not receive under this Agreement, or by implication, any right, title or interest in, or any license to, the Proprietary Information or any intellectual property rights therein, except to the extent expressly set forth herein, and (ii) nothing in this Agreement shall obligate the Discloser to disclose any information to, or enter into any business relationship with, the Recipient.
+
+6. Return of Proprietary Information.  The Recipient shall, upon written request by the Discloser, promptly return to the Discloser or destroy, per such request, all Proprietary Information received by the Recipient from the Discloser (and all reproductions thereof) to the extent not previously returned or destroyed.  In addition, the Recipient shall promptly destroy: (i) any notes, reports or other documents prepared by the Recipient that contain the Discloser's Proprietary Information; and (ii) any of the Discloser's Proprietary Information that is in electronic form or is otherwise incapable of being returned to the Discloser.  
+
+7. Equitable Relief.  Each Party acknowledges that the provisions of this Agreement are necessary and reasonable for the protection of the business and goodwill of the Discloser.  The Recipient agrees that any breach of this Agreement may cause the Discloser substantial and irreparable injury and, therefore, in the event of any breach, in addition to other available remedies, the Discloser shall have the right to seek specific performance and other injunctive or equitable relief without posting of bond or other security.
+
+8. No Warranty.  ALL PROPRIETARY INFORMATION IS PROVIDED "AS IS" UNDER THIS AGREEMENT AND THE DISCLOSER DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, WRITTEN OR ORAL, WITH RESPECT THERETO, INCLUDING, WITHOUT LIMITATION, THAT SUCH PROPRIETARY INFORMATION IS ACCURATE OR COMPLETE FOR ANY PURPOSE.
+
+9. Duration of Obligations.  The confidentiality obligations set forth in Section 3 shall continue with respect to each item of Proprietary Information until the third anniversary of initial disclosure of such item to the Recipient pursuant hereto.
+
+10. Term.  This Agreement shall become effective on the Effective Date and continue in effect for three hundred and sixty four (364) days unless terminated by either Party pursuant to the terms hereof.  Each Party shall have the right to terminate this Agreement for any reason upon fifteen (15) days' prior written notice to the other Party.  Termination shall be in addition to, and shall not prejudice, any of the Parties' remedies at law or in equity.  Sections 3, 4, 5, 7, 9 and 14 shall survive termination in accordance with their terms.  Additionally, the Discloser shall be entitled to return or destruction of its Proprietary Information following termination pursuant to Section 6. 
+
+11. Entire Agreement.  This Agreement supersedes all prior agreements, written or oral, between the Parties relating to the Purpose, provided that any Proprietary Information disclosed by the Discloser to the Recipient prior to the Effective Date pursuant to any prior written agreement shall continue to be subject to any confidentiality obligations set forth therein.  This Agreement may only be amended by written instrument signed by both Parties.  No rule of strict construction shall be applied against either Party with respect to the interpretation of this Agreement.  
+
+12. Succession and Assignment.  This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns.  Neither Party may assign this Agreement in whole or in part, or any of the rights hereunder, without the other Party's prior written consent.  Any assignment made in violation hereof shall be wholly void and invalid, the assignee shall acquire no rights, and the non-assigning Party shall neither recognize, nor be required to recognize, the assignment.  
+
+13. No Waiver.  No waiver by either Party of any right or remedy hereunder shall be valid unless set forth in writing and signed by the Party giving such waiver.  No waiver by either Party with respect to any default or breach shall be deemed to extend to, or affect any rights arising from, any prior or subsequent default or breach.
+
+14. Governing Law.  The interpretation, enforcement and validity of this Agreement shall be governed and construed in accordance with the laws of the State of Nevada without giving effect to any conflict or choice of law provision.  Any and all disputes arising out of or in connection with this Agreement shall be litigated only in a court of competent jurisdiction located within the County of Clark, State of Nevada, and the parties hereby expressly consent to the jurisdiction of said court.
+
+15. Signatures.  This Agreement may be executed in counterparts and by facsimile or other electronic reproduction signature.
+
+IN WITNESS HEREOF, this Agreement is effective as of the Effective Date.
+BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION, ON BEHALF OF THE UNIVERSITY OF NEVADA, LAS VEGAS
+
+			
+Lori Olafson, Ph.D.
+Interim Vice President for Research and Economic Development  
+	
+		
+Date	
+
+______________________________________,
+ _______________________________________
+
+
+			
+Name:
+Title:
+
+	
+		
+Date 
+
+Nondisclosure Agreement
+
+
+
+
+		
+
+
+Avid Technology, Inc.
+Avid Technology Park
+One Park West
+Tewksbury, MA 01876
+Bilateral Nondisclosure Agreement
+
+
+
+Version 12-06-GP		Bilateral Nondisclosure Agreement
+General Purpose		Page 3 of 2
+
+
+
+
