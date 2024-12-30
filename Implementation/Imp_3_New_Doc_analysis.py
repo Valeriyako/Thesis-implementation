@@ -1,11 +1,19 @@
+#
+# Copyright (C) Valeriya Koshevaya
+#
+# SPDX-License-Identifier: MIT
+#
+
+
+
 import os
 import json
 
-from TOOL_IMPLEMENTATION.client_set_and_file_prep import create_client, read_document, preprocess_text, split_into_sections
+from Imp_0_File_prep import create_client, read_document, preprocess_text, split_into_sections
 client = create_client()
 
 
-with open('/Users/koshevv1/Python/Taydellinen_master.json', 'r') as f:
+with open('complete_master', 'r') as f:
     taydellinen_master = json.load(f)
 
 ##################################        New Document Analysis   ##################################################
